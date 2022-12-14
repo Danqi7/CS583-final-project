@@ -1,4 +1,4 @@
-# GraphDynamics
+# CS583-final-project
 We propose a method to learn gene regulatory network that can predict high dimensional data trajectories from sporadic single-cell measurement data. Specifically in this project, we focus on learning a graph network with genes as the vertices and modeling regulatory interactions between the vertices to aligns with given single-cell data.
 
 ## Training Data Prep
@@ -15,7 +15,7 @@ For preprocessing, we first clean the raw [Cell x Gene] data matrix, run MIOFlow
 * '/MIOFlow/notebooks/[Graphs] Worm-Body-traj-gene.ipynb'
 
 ## Download generated cell trajectories:
-1. [EB data]()
+1. [EB data](https://drive.google.com/file/d/1mbJ5MmDQkxAcPcZUvHjh2FrAYtwVtBIC/view?usp=sharing)
 
 2. [C.elegans body wall muscle data](https://drive.google.com/file/d/1MBVpIC60f3bzHw_7uOYVgq2rSU3ecN-4/view?usp=share_link)
 
